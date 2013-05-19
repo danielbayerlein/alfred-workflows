@@ -5,7 +5,7 @@
 ## Installation
 
 [Download](../../../raw/master/rubygems/rubygems.alfredworkflow) and open the
-Workflow file.
+workflow file.
 
 ## Usage
 

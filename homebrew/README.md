@@ -5,7 +5,7 @@
 ## Installation
 
 [Download](../../../raw/master/homebrew/homebrew.alfredworkflow) and open the
-Workflow file.
+workflow file.
 
 ## Usage
 
