@@ -1,7 +1,7 @@
 # Alfred Workflows
 
 Make your [Alfred App](http://www.alfredapp.com) more powerful. Workflow for
-[Homebrew](./hombrew) and
+[Homebrew](./homebrew) and
 [RubyGems](./rubygems).
 
 ## Dependencies
