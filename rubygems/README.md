@@ -1,6 +1,6 @@
 # Alfred Workflow for [RubyGems.org](https://rubygems.org)
 
-![RubyGems.org Workflow Screenshot](./screenshot.png)
+![RubyGems Workflow Screenshot](./screenshot.png)
 
 ## Installation
 

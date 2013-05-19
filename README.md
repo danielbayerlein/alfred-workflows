@@ -4,6 +4,8 @@ Make your [Alfred App](http://www.alfredapp.com) more powerful. Workflow for
 [Homebrew](./homebrew) and
 [RubyGems](./rubygems).
 
+![Workflow Screenshot](./screenshot.png)
+
 ## Dependencies
 
 * [Ruby](http://www.ruby-lang.org)
