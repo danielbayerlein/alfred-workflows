@@ -22,4 +22,4 @@ Make your [Alfred App](http://www.alfredapp.com) more powerful. Workflow for
 
 ## Copyright
 
-Copyright (c) 2013 Daniel Bayerlein.
+Copyright (c) 2013 Daniel Bayerlein. See [LICENSE](./LICENSE.md) for details.
