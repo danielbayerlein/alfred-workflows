@@ -6,10 +6,10 @@ Make your [Alfred App](http://www.alfredapp.com) more powerful. Workflow for
 
 ![Workflow Screenshot](./screenshot.png)
 
-## Dependencies
+## Requirement
 
-* [Ruby](http://www.ruby-lang.org)
-* [Alfred](http://www.alfredapp.com)
+* [Ruby](http://www.ruby-lang.org) (>= 1.8.7)
+* [Alfred](http://www.alfredapp.com) (>= 2.0.0)
 * [Alfred Powerpack](http://www.alfredapp.com/powerpack/)
 
 ## Contributing
