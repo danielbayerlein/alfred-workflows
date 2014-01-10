@@ -1,4 +1,4 @@
-# Alfred Workflow for [Homebrew](http://mxcl.github.io/homebrew/)
+# Alfred Workflow for [Homebrew](http://brew.sh/)
 
 ![Homebrew Workflow Screenshot](./screenshot.png)
 
