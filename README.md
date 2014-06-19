@@ -1,10 +1,8 @@
 # Alfred Workflows
 
 Make your [Alfred App](http://www.alfredapp.com) more powerful. Workflow for
-[Homebrew](./homebrew) and
-[RubyGems](./rubygems).
-
-![Workflow Screenshot](./screenshot.png)
+[Homebrew](./homebrew), [RubyGems](./rubygems) and
+[OS X](./rebuild-launchservices).
 
 ## Requirement
 
